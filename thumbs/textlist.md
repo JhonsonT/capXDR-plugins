@@ -1,0 +1,28 @@
+### 点击文字链接可跳转至模板下载页面  /  Click on the link to access the plugin  
+当前共有 [24] 个模板 / Here are [24] plugins now  
+****  
+
+[Asus-TUF6](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Asus-TUF6.zip)  
+[Dell-P2715Q](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell-P2715Q.zip)  
+[Dell-U8K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell-U8K.zip)  
+[Dell-UP3218K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell-UP3218K.zip)  
+[LG-34WK95U](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG-34WK95U.zip)  
+[LG-Ultrafine5K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG-Ultrafine5K.zip)  
+[Lenovo-Air14IML(Gold)](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo-Air14IML(Gold).zip)  
+[Lenovo-Air14IML](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo-Air14IML.zip)  
+[Lenovo-Pro13IML](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo-Pro13IML.zip)  
+[MBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/MBA13.zip)  
+[OMEN-4P](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/OMEN-4P.zip)  
+[XPS15](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/XPS15.zip)  
+[iMac27](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iMac27.zip)  
+[iMacPro](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iMacPro.zip)  
+[rMBA13(Gold)](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13(Gold).zip)  
+[rMBA13(Gray)](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13(Gray).zip)  
+[rMBA13-K(Gold)](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13-K(Gold).zip)  
+[rMBA13-K(Gray)](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13-K(Gray).zip)  
+[rMBA13-K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13-K.zip)  
+[rMBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13.zip)  
+[rMBP16(Gray)](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBP16(Gray).zip)  
+[rMBP16-K(Gary)](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBP16-K(Gary).zip)  
+[rMBP16-K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBP16-K.zip)  
+[rMBP16](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBP16.zip)  
