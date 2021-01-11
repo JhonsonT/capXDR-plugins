@@ -13,10 +13,9 @@ case $file in
 		printf "### 点击文字链接可跳转至模板下载页面  /  Click on the link to access the plugin  \n当前共有 ["$num"] 个模板 / Here are ["$num"] plugins now  \n****  \n\n" >> ../thumbs/textlist.md
 		for i in `ls *.png`
 		do
-			sips -Z 512 -s format png $i --out ../thumbs/${i%.*}.png
-			pngquant -f --ext .png ../thumbs/${i%.*}.png
+			sips -Z 256 -s format jpeg $i --out ../thumbs/${i%.*}.jpg
 			pluginName=${i%.*}
-			echo '<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/'$pluginName'.zip"><img src="./'$pluginName'.png" alt="'$pluginName'" width="128" /></a>' >> ../thumbs/thumbs.md
+			echo '<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/'$pluginName'.zip"><img src="./'$pluginName'.jpg" alt="'$pluginName'" width="128" /></a>' >> ../thumbs/thumbs.md
 			echo '['$pluginName'](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/'$pluginName'.zip)  ' >> ../thumbs/textlist.md
 		done
 		cd ..
